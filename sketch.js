@@ -8,8 +8,8 @@ var mySound;
 function preload() {
 
   horse1 = loadImage("assets/horse1.png");
-  horse2 = loadImage("assets/HORSE2.png");
-  horse3 = loadImage("assets/HORSE3.png");
+  horse2 = loadImage("assets/horse2.png");
+  horse3 = loadImage("assets/horse3.png");
   bg = loadImage("assets/BG.png");
   cloud1 = loadImage("assets/clouds.png");
   cloud2 = loadImage("assets/clouds.png");
